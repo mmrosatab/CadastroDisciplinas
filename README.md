@@ -1,2 +1,3 @@
 # Projeto1-IFSP
-Projeto 1 do curso de Programação de computadores e dispositivos movéis oferecido pelo IFSP. O projeto consite em uma aplicação Java para o cadastro de disciplinas fazendo uso de SGBD MySQL.
+
+Este repositório de se destina ao projeto final do módulo 1 do curso de Programação de Computadores e Dispositivos Movéis oferecido pelo Instituto Federal São Paulo(Campus Sertãozinho). O projeto consite em uma aplicação Java para o cadastro de disciplinas fazendo uso de SGBD MySQL.
